@@ -1,6 +1,6 @@
 {
   "name": "proxy-generics-taxjar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Proxy Generic Taxjar.com",
   "homepage": "https://cali-style.com",
   "author": {
@@ -30,7 +30,7 @@
     "mocha": "^2.4.5",
     "smokesignals": "v2-latest",
     "supertest": "^2.0.1",
-    "trailpack-proxy-generics": "^0.0.13",
+    "trailpack-proxy-generics": "^0.0.16",
     "trails": "v2-latest"
   },
   "scripts": {
